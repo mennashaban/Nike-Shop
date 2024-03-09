@@ -1,6 +1,6 @@
 # nike_shop
 
-[Watch the Video]([https://www.youtube.com/watch?v=your_video_id](https://photos.app.goo.gl/pqFT45Q1cL1EzQum6))
+[Watch the Video](https://photos.app.goo.gl/pqFT45Q1cL1EzQum6)
 
 
 ## Getting Started
