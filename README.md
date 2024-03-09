@@ -1,6 +1,7 @@
 # nike_shop
 
-A new Flutter project.
+[Watch the Video]([https://www.youtube.com/watch?v=your_video_id](https://photos.app.goo.gl/pqFT45Q1cL1EzQum6))
+
 
 ## Getting Started
 
